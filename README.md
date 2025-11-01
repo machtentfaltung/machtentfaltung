@@ -1,15 +1,1 @@
-
----
-```rs
-use std::io::{self, stdout, Write};
-
-fn main() -> Result<(), io::Error> {
-    let mut stdout = stdout();
-    stdout.write(b"Hello, there!")?;
-    stdout.write(b"\n")?;
-    stdout.write(b"Welcome to my GitHub profile.")?;
-    stdout.flush()?;
-    Ok(())
-}
-```
----
+<img width="1920" height="350" alt="GitHub-Rounded" src="https://github.com/user-attachments/assets/e2945a7c-7cbe-47d8-9f1e-632b7c5507eb" />
